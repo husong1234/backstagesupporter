@@ -13,7 +13,7 @@ class HeaderTop extends React.Component{
           </section>
           <section className="right">
             <div>
-              <img src="https://upload.jianshu.io/users/upload_avatars/12760534/b13b976b-b063-4715-8674-e5dbd9de57c6.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/96/h/96"/>
+              <img src="https://upload.jianshu.io/users/upload_avatars/12760534/b13b976b-b063-4715-8674-e5dbd9de57c6.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/96/h/96" alt=""/>
             </div>
             <a href="#">admin</a>
             <a href="#">前台首页</a>
